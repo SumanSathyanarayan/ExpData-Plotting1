@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Introduction
 
 This assignment uses data from
@@ -112,3 +113,6 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+=======
+# ExploratoryData-Plotting1
+>>>>>>> 1c3f4718b85580b5d3a9f047cb32c6073dcebb6e
